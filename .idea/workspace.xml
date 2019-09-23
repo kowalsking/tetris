@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59f8b136-a585-4adb-bb24-e264ddbd8180" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/game.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +27,8 @@
   <component name="ProjectId" id="1QxqdqnywATjmuPu1XQp9vsmQK7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -67,7 +73,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568722684785</updated>
-      <workItem from="1568722689612" duration="1517000" />
+      <workItem from="1568722689612" duration="5388000" />
+      <workItem from="1568802635754" duration="14011000" />
+      <workItem from="1569222585611" duration="598000" />
     </task>
     <servers />
   </component>
@@ -79,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
